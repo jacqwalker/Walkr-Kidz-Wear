@@ -337,18 +337,43 @@ img {
 .arrow1 {
     position: absolute;
     width: 25px;
-    top: 45%;
+    top: 20%;
     cursor: pointer;
 }
 
 .arrow2 {
     position: absolute;
     width: 25px;
-    top: 45%;
+    top: 20%;
     right: 0%;
     cursor: pointer;
 }
 
+.shoppingBasket {
+    background-color: #20624B;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    margin: 20px auto;
+    display: block;
+    width: 125px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.size {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.quantity {
+    width: 25px;
+    padding: 5px;
+}
+
+.quantity1 {
+    margin-top: 10px;
+}
 /*END OF INDIVIDUAL PRODUCTS STYLING*/
 
 /* Responsive Article Styling: */
