@@ -337,14 +337,14 @@ img {
 .arrow1 {
     position: absolute;
     width: 25px;
-    top: 20%;
+    top: 15%;
     cursor: pointer;
 }
 
 .arrow2 {
     position: absolute;
     width: 25px;
-    top: 20%;
+    top: 15%;
     right: 0%;
     cursor: pointer;
 }
@@ -374,6 +374,7 @@ img {
 .quantity1 {
     margin-top: 10px;
 }
+
 /*END OF INDIVIDUAL PRODUCTS STYLING*/
 
 /* Responsive Article Styling: */
